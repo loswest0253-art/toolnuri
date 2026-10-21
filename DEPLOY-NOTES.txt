@@ -1,0 +1,9 @@
+Toolnuri SEO deployment (2026-10-21)
+
+1. Upload all files AND folders inside this package to the ROOT of the GitHub repository (not the wrapper folder).
+2. Cloudflare Pages will automatically redeploy from GitHub.
+3. Verify https://toolnuri.kr/sitemap.xml and https://toolnuri.kr/robots.txt in a browser.
+4. Submit sitemap.xml to Google Search Console and Naver Search Advisor.
+5. Canonical/alternate URLs now use https://toolnuri.kr; root and legacy redirects remain noindex.
+
+Don't upload this package as a ZIP directly to the repo. Do not overwrite with an older package afterward.
