@@ -1,0 +1,6 @@
+v16 changes
+1. Fix spacing between two tool-grid groups on KO and EN homepages.
+2. Add KO/EN currency converter using Frankfurter API daily reference rates (external network required).
+3. Add sitemap entries and per-page SEO and AdSense script.
+4. Keep all previous files, SEO, and Ads settings.
+Upload CONTENTS of this folder to GitHub repo ROOT, not the folder itself. Keep your existing Naver ownership file.

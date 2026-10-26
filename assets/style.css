@@ -32,3 +32,11 @@
 .simple-tool-list .tool-link,.simple-tool-list .tool-link:nth-last-child(2){display:flex;align-items:center;justify-content:center;text-align:center;min-height:76px;padding:17px 12px;border:1px solid #e5ebf2;border-radius:12px;background:#fff;color:#26384b;font-weight:650;box-shadow:0 2px 7px rgba(30,50,75,.035);transition:border-color .15s,box-shadow .15s,transform .15s;}
 .simple-tool-list .tool-link:hover,.simple-tool-list .tool-link:focus-visible{border-color:#93b8f0;color:#2563eb;box-shadow:0 4px 12px rgba(25,80,155,.08);transform:translateY(-1px)}
 @media(max-width:540px){.simple-tool-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.simple-tool-list .tool-link,.simple-tool-list .tool-link:nth-last-child(2){font-size:13px;min-height:75px;padding:12px 6px}}
+
+/* v16: consistent spacing between adjacent home card groups */
+.tool-directory{display:flex;flex-direction:column;gap:12px}
+@media(max-width:540px){.tool-directory{gap:9px}}
+.fx-panel .fx-result{margin-top:16px;padding:18px;background:#f2f6ff;border:1px solid #dbe8fc;border-radius:12px}
+.fx-result strong{display:block;font-size:clamp(20px,4vw,26px);overflow-wrap:anywhere;margin:7px 0}
+.fx-meta{font-size:12px;color:#68788e;line-height:1.7}
+.fx-actions{margin-top:14px;display:flex;justify-content:flex-end}
