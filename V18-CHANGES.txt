@@ -1,0 +1,1 @@
+v18: 환율 결과 UI만 개선 / Currency result card redesign. KO+EN. Previous files and AdSense/SEO preserved.
