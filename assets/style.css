@@ -52,3 +52,8 @@
 .fx-detail{font-size:12px;line-height:1.8;color:#66758c;margin:0;overflow-wrap:anywhere}
 .fx-detail:empty{display:none}
 @media(max-width:540px){.fx-panel .fx-result{margin-top:24px;padding:18px 17px}.fx-panel .fx-result strong{font-size:clamp(24px,7vw,32px)}}
+
+/* v19: detailed, accessible help sections */
+.tool-help{margin-top:24px;padding:24px;border:1px solid #dbe4ee;border-radius:16px;background:#fff;line-height:1.75}
+.tool-help h2{font-size:1.22rem;margin:0 0 16px;color:#172e4a}.tool-help h3{font-size:1rem;margin:19px 0 5px;color:#203a58}.tool-help p{margin:0 0 8px;color:#435369}.tool-help .help-example{background:#f5f8fc;border-left:3px solid #8aaed9;padding:11px 14px;border-radius:6px}
+.home-intro{margin:25px 0 18px;padding:24px;border:1px solid #dbe4ee;border-radius:16px;background:#fff;line-height:1.75}.home-intro h2{font-size:1.2rem;margin:0 0 8px}.home-intro p{margin:0 0 12px;color:#435369}.home-intro ul{margin:0;padding-left:22px;color:#435369}.home-intro li{margin:5px 0}.info-footer{display:flex;gap:15px;flex-wrap:wrap;margin:12px 0}.info-footer a{color:#365b83;text-decoration:underline}@media(max-width:600px){.tool-help,.home-intro{padding:17px}}

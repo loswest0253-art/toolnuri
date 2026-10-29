@@ -1,1 +1,5 @@
-Toolnuri v15: AdSense Auto Ads ready. Publisher script retained in each HTML page. Removed preview ad hosts and placeholder UI; SEO and tool code preserved. Keep existing Naver verification HTML in GitHub repository.
+# Toolnuri v19
+기준: v18. ZIP 내부 `toolnuri-content-v19` 폴더의 **내용물 전체**를 GitHub 저장소 루트에 업로드하세요.
+기존 네이버 인증 HTML 등 저장소의 다른 파일은 삭제하지 마세요.
+수정: 20개 도구 KO/EN 페이지에 사용 맥락, 변환 예시, 주의사항 및 메인 이용 안내 추가.
+AdSense 심사 통과는 보장하지 않습니다.
