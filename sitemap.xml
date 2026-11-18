@@ -1,43 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://toolnuri.kr/ko/angle/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/area/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/data/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/density/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/energy/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/fuel/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/image-to-pdf/</loc>
+    <loc>https://toolnuri.kr/</loc>
   </url>
   <url>
     <loc>https://toolnuri.kr/ko/</loc>
   </url>
   <url>
-    <loc>https://toolnuri.kr/ko/length/</loc>
+    <loc>https://toolnuri.kr/en/</loc>
   </url>
   <url>
-    <loc>https://toolnuri.kr/ko/loan/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/pdf-to-image/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/power/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/pressure/</loc>
+    <loc>https://toolnuri.kr/ko/area/</loc>
   </url>
   <url>
     <loc>https://toolnuri.kr/ko/scientific/</loc>
@@ -49,55 +22,55 @@
     <loc>https://toolnuri.kr/ko/temperature/</loc>
   </url>
   <url>
-    <loc>https://toolnuri.kr/ko/time/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/torque/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/ko/volume/</loc>
+    <loc>https://toolnuri.kr/ko/length/</loc>
   </url>
   <url>
     <loc>https://toolnuri.kr/ko/weight/</loc>
   </url>
   <url>
-    <loc>https://toolnuri.kr/en/angle/</loc>
+    <loc>https://toolnuri.kr/ko/volume/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/data/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/pressure/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/time/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/energy/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/power/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/fuel/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/torque/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/density/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/angle/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/currency/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/loan/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/image-to-pdf/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/pdf-to-image/</loc>
   </url>
   <url>
     <loc>https://toolnuri.kr/en/area/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/data/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/density/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/energy/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/fuel/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/image-to-pdf/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/length/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/loan/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/pdf-to-image/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/power/</loc>
-  </url>
-  <url>
-    <loc>https://toolnuri.kr/en/pressure/</loc>
   </url>
   <url>
     <loc>https://toolnuri.kr/en/scientific/</loc>
@@ -109,15 +82,69 @@
     <loc>https://toolnuri.kr/en/temperature/</loc>
   </url>
   <url>
-    <loc>https://toolnuri.kr/en/time/</loc>
+    <loc>https://toolnuri.kr/en/length/</loc>
   </url>
   <url>
-    <loc>https://toolnuri.kr/en/torque/</loc>
+    <loc>https://toolnuri.kr/en/weight/</loc>
   </url>
   <url>
     <loc>https://toolnuri.kr/en/volume/</loc>
   </url>
   <url>
-    <loc>https://toolnuri.kr/en/weight/</loc>
+    <loc>https://toolnuri.kr/en/data/</loc>
   </url>
-<url><loc>https://toolnuri.kr/ko/currency/</loc></url><url><loc>https://toolnuri.kr/en/currency/</loc></url></urlset>
+  <url>
+    <loc>https://toolnuri.kr/en/pressure/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/time/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/energy/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/power/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/fuel/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/torque/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/density/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/angle/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/currency/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/loan/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/image-to-pdf/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/pdf-to-image/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/about/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/privacy/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/ko/contact/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/about/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/privacy/</loc>
+  </url>
+  <url>
+    <loc>https://toolnuri.kr/en/contact/</loc>
+  </url>
+</urlset>

@@ -57,3 +57,11 @@
 .tool-help{margin-top:24px;padding:24px;border:1px solid #dbe4ee;border-radius:16px;background:#fff;line-height:1.75}
 .tool-help h2{font-size:1.22rem;margin:0 0 16px;color:#172e4a}.tool-help h3{font-size:1rem;margin:19px 0 5px;color:#203a58}.tool-help p{margin:0 0 8px;color:#435369}.tool-help .help-example{background:#f5f8fc;border-left:3px solid #8aaed9;padding:11px 14px;border-radius:6px}
 .home-intro{margin:25px 0 18px;padding:24px;border:1px solid #dbe4ee;border-radius:16px;background:#fff;line-height:1.75}.home-intro h2{font-size:1.2rem;margin:0 0 8px}.home-intro p{margin:0 0 12px;color:#435369}.home-intro ul{margin:0;padding-left:22px;color:#435369}.home-intro li{margin:5px 0}.info-footer{display:flex;gap:15px;flex-wrap:wrap;margin:12px 0}.info-footer a{color:#365b83;text-decoration:underline}@media(max-width:600px){.tool-help,.home-intro{padding:17px}}
+
+/* v20: practical, differentiated usage notes and trustworthy navigation */
+.tool-insights{margin-top:24px;padding:26px;background:#fff;border:1px solid #dbe4ee;border-radius:15px;line-height:1.75}
+.tool-insights h2{font-size:20px;color:#203a58;margin:0 0 12px}.tool-insights h3{font-size:15px;color:#26446b;margin:18px 0 5px}.tool-insights p{font-size:14px;color:#4b5a70;margin-bottom:12px;overflow-wrap:anywhere}.tool-insights p:last-child{margin-bottom:0}
+.site-difference{margin-top:22px}.legal-page{max-width:820px;min-height:65vh}.legal-page h1{font-size:30px}.legal-lead{font-size:16px;color:#425b77;line-height:1.7}.legal-page a{color:#245db8;text-decoration:underline}
+.footer{flex-wrap:wrap;align-items:center;gap:12px}.footer .info-footer{margin:0}.info-footer{display:flex;gap:15px;flex-wrap:wrap}.info-footer a{color:#4b6586;text-decoration:underline}
+.preset-bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:13px 0 6px}.preset-bar span{font-size:12px;font-weight:700;color:#526783;margin-right:4px}.fx-presets{margin-bottom:4px}.preset-bar .subtle-btn{padding:7px 12px}
+@media(max-width:600px){.tool-insights{padding:18px}.tool-insights h2{font-size:18px}.footer .info-footer{gap:10px}}
